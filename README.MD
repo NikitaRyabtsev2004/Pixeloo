@@ -1,7 +1,7 @@
 # Pixeloo: Интерактивная Платформа для Коллаборативного Пиксель-Арта
 
 [![GitHub](https://img.shields.io/badge/GitHub-Link-blue.svg)](https://github.com/NikitaRyabtsev2004/Pixeloo)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.MD)
 [![Website](https://img.shields.io/badge/Pixeloo-Link-red.svg)](https://pixeloo.ru)
 
 ## О проекте
