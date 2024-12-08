@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Link-blue.svg)](https://github.com/NikitaRyabtsev2004/Pixeloo)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![Website](https://img.shields.io/badge/GitHub-Link-red.svg)](https://pixeloo.ru)
 
 ## О проекте
 
@@ -72,6 +73,10 @@ nekita118118@gmail.com
 
 ## Дополнительно
 
+- **Сайт проекта**: https://pixeloo.ru
+
 - **Версия**: 0.0.1
 - **Дата релиза**: 05 сентября 2024 года
-- **Сайт проекта**: https://193.200.74.72:4000 Скоробудет новый красивый домен)
+
+- **Версия**: 0.1.0
+- **Дата релиза**: 05 сентября 2024 года
