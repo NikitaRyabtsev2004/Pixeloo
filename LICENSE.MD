@@ -22,7 +22,7 @@ SOFTWARE.
 
 Additional Terms:
 
-1. Attribution: You must clearly attribute the Software to Рябцев Никита Юрьевич and Bit-Blitz project.
+1. Attribution: You must clearly attribute the Software to Рябцев Никита Юрьевич and Pixeloo project.
 
 2. Commercial Use: You may not sell or distribute the Software for commercial purposes without explicit permission from Рябцев Никита Юрьевич.
 
