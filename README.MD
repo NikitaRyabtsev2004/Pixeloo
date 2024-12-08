@@ -18,7 +18,7 @@ Pixeloo - это захватывающая онлайн-платформа, к�
 
 ##Скриншоты 
 
-<img src="public/pixeloo1.png" width="50%"><img src="public/pixeloo2.png" width="50%"><img src="public/pixeloo3.png" width="50%">
+<img src="public/pixeloo1.png" width="50%"><img src="public/pixeloo2.png" width="50%"><img src="public/pixeloo3.png" width="50%"><img src="public/pixeloo4.png" width="50%">
 
 
 ## Использование
