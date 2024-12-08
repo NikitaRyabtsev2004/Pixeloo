@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Link-blue.svg)](https://github.com/NikitaRyabtsev2004/Pixeloo)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-[![Website](https://img.shields.io/badge/GitHub-Link-red.svg)](https://pixeloo.ru)
+[![Website](https://img.shields.io/badge/Pixeloo-Link-red.svg)](https://pixeloo.ru)
 
 ## О проекте
 
